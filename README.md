@@ -23,13 +23,13 @@ y su respectivo programa
   
 * En la carpeta "spec" se guardan los test de Jasmine utilizados para Node, para llamar al test ejecutar el comando:
 
-  * ##### ejecuta todos los tests #####
+  * ##### Ejecuta todos los tests #####
     
   ~~~
   npm test
   ~~~
   
-  * ##### ejecuta el test mencionado #####
+  * ##### Ejecuta el test mencionado #####
   
   ~~~
   npm test spec/fizzbuzzSpec.js
