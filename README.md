@@ -23,7 +23,7 @@ y su respectivo programa
   
 * En la carpeta "spec" se guardan los test de Jasmine utilizados para Node, para llamar al test ejecutar el comando:
 
-  * ejecuta todos los tests
+  * ##### ejecuta todos los tests #####
   
   
   ~~~
