@@ -15,7 +15,7 @@ y su respectivo programa
 
 #### Jasmine en NODE ####
 
-* Se ha instegrado jasmine en el package.json, para utilizar realizar:
+* Se ha integrado jasmine en el package.json, para poder utilizarlo realizar el siguiente comando:
 
   ~~~
   npm install
