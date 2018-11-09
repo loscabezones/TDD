@@ -2,10 +2,12 @@
 
 Listado de ejercicios para test unitarios en javascript TDD  
 
-## introduccion
+## Carpetas: ##
 
-*Contiene un test unitario realizado a mano en ".js"  
+#### introduccion
 
-## jasmine
+* Contiene un test unitario realizado a mano en ".js"  
 
-*Contiene el framework jasmine y mediante un html llamamos a los diferentes porgramas y test
+##### jasmine
+
+* Contiene el framework jasmine y mediante un html llamamos a los diferentes porgramas y test
