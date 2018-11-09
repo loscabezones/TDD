@@ -18,20 +18,20 @@ y su respectivo programa
 * Se ha instegrado jasmine en el package.json, para utilizar realizar:
 
   ~~~
-
   npm install
-
   ~~~
   
 * En la carpeta "spec" se guardan los test de Jasmine utilizados para Node, para llamar al test ejecutar el comando:
 
-  * ejecuta todos los tests 
+  * ejecuta todos los tests  
+  
   
   ~~~
   npm test
   ~~~
   
-  * ejecuta el test mencionado
+  * ejecuta el test mencionado  
+  
  
   ~~~
   npm test spec/fizzbuzzSpec.js
