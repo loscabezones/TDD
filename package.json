@@ -1,0 +1,23 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "description": "Listado de ejercicios para test unitarios en javascript TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loscabezones/TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loscabezones/TDD/issues"
+  },
+  "homepage": "https://github.com/loscabezones/TDD#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
